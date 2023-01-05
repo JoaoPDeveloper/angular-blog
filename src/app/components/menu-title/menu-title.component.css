@@ -1,7 +1,7 @@
-.menu__title__container{
+.menu_title_container{
   color: white;
 }
-.menu__title__container > h1{
+.menu_title_container> h1{
   margin-top: 20px;
   margin-bottom: 20px;
   font-size: 11rem;
