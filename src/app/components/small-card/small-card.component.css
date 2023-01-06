@@ -1,8 +1,13 @@
 .container__small-card{
   width: 100%;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  height: 13rem;
+  margin-top: 1rem;
   display: flex;
-  margin-bottom: 1rem;
-  flex-direction: row;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
 }
 .small-card_picture > img{
   width: 20rem;
